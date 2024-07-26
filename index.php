@@ -153,7 +153,46 @@
         </div>
         <!-- Navbar & Hero End -->
 
-        <?php include "aboutfile.php";?>
+        <!-- About Start -->
+<div class="container-fluid about py-5">
+            <div class="container py-5">
+                <div class="row g-5 align-items-center">
+                    <div class="col-lg-5">
+                        <div class="h-100" style="border: 50px solid; border-color: transparent #2f72f7 transparent #296cf1;">
+                            <img src="img/web1.png" class="img-fluid w-100 h-100" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(img/about-img-1.png);">
+                        <h5 class="section-about-title pe-3">About Us</h5>
+                        <h1 class="mb-4">Welcome to <span class="text-primary">Prestige Digital Hub</span></h1>
+                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, dolorum, doloribus sunt dicta, officia voluptatibus libero necessitatibus natus impedit quam ullam assumenda? Id atque iste consectetur. Commodi odit ab saepe!</p>
+                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quos voluptatem suscipit neque enim, doloribus ipsum rem eos distinctio, dignissimos nisi saepe nulla? Libero numquam perferendis provident placeat molestiae quia?</p>
+                        <div class="row gy-2 gx-4 mb-4">
+                            <div class="col-sm-6">
+                                <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Video Games and Accesories</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Laptops and Computers</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Online Services</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Remote Assistant</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Graphics & Design</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Web Design</p>
+                            </div>
+                        </div>
+                        <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About End -->
 
        <?php include "servicesfile.php"?>
 
@@ -168,8 +207,89 @@
        <?php include "bookingsfile.php"?>
        
        <?php include "guidesfile.php"?>
-       
-       <?php include "blogfile.php"?>
+       <!-- Blog -->
+
+       <div class="container-fluid blog py-5">
+            <div class="container py-5">
+                <div class="mx-auto text-center mb-5" style="max-width: 900px;">
+                    <h5 class="section-title px-3">Our Blogs</h5>
+                    <h1 class="mb-4">Popular Tech Blogs</h1>
+                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti deserunt tenetur sapiente atque. Magni non explicabo beatae sit, vel reiciendis consectetur numquam id similique sunt error obcaecati ducimus officia maiores.
+                    </p>
+                </div>
+                <div class="row g-4 justify-content-center">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/blog-1.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div>
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <p class="mb-3">Posted By: Royal Hamblin </p>
+                                <a href="#" class="h4">Tech Health</a>
+                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
+                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/blog-2.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div>
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <p class="mb-3">Posted By: Royal Hamblin </p>
+                                <a href="#" class="h4">Setup</a>
+                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
+                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <div class="blog-img-inner">
+                                    <img class="img-fluid w-100 rounded-top" src="img/blog-3.jpg" alt="Image">
+                                    <div class="blog-icon">
+                                        <a href="#" class="my-auto"><i class="fas fa-link fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                                <div class="blog-info d-flex align-items-center border border-start-0 border-end-0">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>28 Jan 2050</small>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white border-end py-2"><i class="fa fa-thumbs-up text-primary me-2"></i>1.7K</a>
+                                    <a href="#" class="btn-hover flex-fill text-center text-white py-2"><i class="fa fa-comments text-primary me-2"></i>1K</a>
+                                </div>
+                            </div>
+                            <div class="blog-content border border-top-0 rounded-bottom p-4">
+                                <p class="mb-3">Posted By: Royal Hamblin </p>
+                                <a href="#" class="h4">Digital Insight</a>
+                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
+                                <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
       <?php include "testimonialfile.php"?>
       
