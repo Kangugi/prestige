@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Travela - Tourism Website Template</title>
+        <title>Prestige Digital Hub</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
@@ -102,7 +102,7 @@
                         </div>
                         <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
-                    <a href="" class="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
+                    <a href="booking.php" class="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                 </div>
             </nav>
         </div>
@@ -125,8 +125,8 @@
         <div class="container-fluid guide py-5">
             <div class="container py-5">
                 <div class="mx-auto text-center mb-5" style="max-width: 900px;">
-                    <h5 class="section-title px-3">Travel Guide</h5>
-                    <h1 class="mb-0">Meet Our Guide</h1>
+                    <h5 class="section-title px-3">Partners</h5>
+                    <h1 class="mb-0">Meet Our partners</h1>
                 </div>
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-3">
