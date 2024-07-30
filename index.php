@@ -1462,7 +1462,7 @@
             </div>
         </div>
 
-        <!-- Partners Start -->
+        <!-- Partners End -->
      
        <!-- Blog -->
 
