@@ -78,7 +78,7 @@
                         </div>
                         <a href="contact.php" class="nav-item nav-link">Contact</a>
                     </div>
-                    <a href="" class="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
+                    <a href="booking.php" class="btn btn-primary rounded-pill py-2 px-4 ms-lg-4">Book Now</a>
                 </div>
             </nav>
 
@@ -819,7 +819,7 @@
 
 
         <!--Packages Start-->
-        
+
        <div class="container-fluid packages py-5">
             <div class="container py-5">
                 <div class="mx-auto text-center mb-5" style="max-width: 900px;">
@@ -964,10 +964,408 @@
         </div>
 
         <!-- Packages End -->
+
+        <!-- Gallery Start -->
         
-      <?php include "galleryfile.php"?>
+      <div class="container-fluid gallery py-5 my-5">
+            <div class="mx-auto text-center mb-5" style="max-width: 900px;">
+                <h5 class="section-title px-3">Our Gallery</h5>
+                <h1 class="mb-4">Digital Gallery.</h1>
+                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum tempore nam, architecto doloremque velit explicabo? Voluptate sunt eveniet fuga eligendi! Expedita laudantium fugiat corrupti eum cum repellat a laborum quasi.
+                </p>
+            </div>
+            <div class="tab-class text-center">
+                <ul class="nav nav-pills d-inline-flex justify-content-center mb-5">
+                    <li class="nav-item">
+                        <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill active" data-bs-toggle="pill" href="#GalleryTab-1">
+                            <span class="text-dark" style="width: 150px;">All</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="d-flex py-2 mx-3 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#GalleryTab-2">
+                            <span class="text-dark" style="width: 150px;">Technology</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#GalleryTab-3">
+                            <span class="text-dark" style="width: 150px;">Ocean Tour</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#GalleryTab-4">
+                            <span class="text-dark" style="width: 150px;">Summer Tour</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="d-flex mx-3 py-2 border border-primary bg-light rounded-pill" data-bs-toggle="pill" href="#GalleryTab-5">
+                            <span class="text-dark" style="width: 150px;">Sport Tour</span>
+                        </a>
+                    </li>
+                </ul>
+                <div class="tab-content">
+                    <div id="GalleryTab-1" class="tab-pane fade show p-0 active">
+                        <div class="row g-2">
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-1.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-1.jpg" data-lightbox="gallery-1" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-2.jpg" data-lightbox="gallery-2" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-3.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-4.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-4.jpg" data-lightbox="gallery-4" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-5.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-5.jpg" data-lightbox="gallery-5" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-6.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-6.jpg" data-lightbox="gallery-6" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-7.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-7.jpg" data-lightbox="gallery-7" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-8.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-8.jpg" data-lightbox="gallery-8" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-3 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-9.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-9.jpg" data-lightbox="gallery-9" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-3 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-10.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-10.jpg" data-lightbox="gallery-10" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="GalleryTab-2" class="tab-pane fade show p-0">
+                        <div class="row g-2">
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-2.jpg" data-lightbox="gallery-2" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-3.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="GalleryTab-3" class="tab-pane fade show p-0">
+                        <div class="row g-2">
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-2.jpg" data-lightbox="gallery-2" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-3.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="GalleryTab-4" class="tab-pane fade show p-0">
+                        <div class="row g-2">
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All Items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-2.jpg" data-lightbox="gallery-2" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All Items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-3.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="GalleryTab-5" class="tab-pane fade show p-0">
+                        <div class="row g-2">
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All Items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-2.jpg" data-lightbox="gallery-2" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-2">
+                                <div class="gallery-item h-100">
+                                    <img src="img/gallery-3.jpg" class="img-fluid w-100 h-100 rounded" alt="Image">
+                                    <div class="gallery-content">
+                                        <div class="gallery-info">
+                                            <h5 class="text-white text-uppercase mb-2">Technology</h5>
+                                            <a href="#" class="btn-hover text-white">View All Items <i class="fa fa-arrow-right ms-2"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="gallery-plus-icon">
+                                        <a href="img/gallery-3.jpg" data-lightbox="gallery-3" class="my-auto"><i class="fas fa-plus fa-2x text-white"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Gallery End -->
+         
+        <!-- Orders Start -->
       
-      <?php include "bookingsfile.php"?>
+        <div class="container-fluid booking py-5">
+            <div class="container py-5">
+                <div class="row g-5 align-items-center">
+                    <div class="col-lg-6">
+                        <h5 class="section-booking-title pe-3">Orders</h5>
+                        <h1 class="text-white mb-4">Online Orders</h1>
+                        <p class="text-white mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
+                        </p>
+                        <p class="text-white mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
+                        </p>
+                        <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a>
+                    </div>
+                    <div class="col-lg-6">
+                        <h1 class="text-white mb-3">Order an Item Online</h1>
+                        <p class="text-white mb-4">Get <span class="text-warning">10% Off</span> On Your First Order With Prestige Digital Hub. Get More Deal Offers Here.</p>
+                        <form>
+                            <div class="row g-3">
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control bg-white border-0" id="name" placeholder="Your Name">
+                                        <label for="name">Your Name</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control bg-white border-0" id="email" placeholder="Your Email">
+                                        <label for="email">Your Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating date" id="date3" data-target-input="nearest">
+                                        <input type="text" class="form-control bg-white border-0" id="datetime" placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
+                                        <label for="datetime">Date & Time</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <select class="form-select bg-white border-0" id="select1">
+                                            <option value="1">Computing Hardware</option>
+                                            <option value="2">Gaming Instruments</option>
+                                            <option value="3">Websites and Hosting</option>
+                                        </select>
+                                        <label for="select1">Digital Consultation</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <select class="form-select bg-white border-0" id="SelectPerson">
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                        </select>
+                                        <label for="SelectPerson">Items</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-floating">
+                                        <select class="form-select bg-white border-0" id="CategoriesSelect">
+                                            <option value="1">Packages</option>
+                                            <option value="2">1</option>
+                                            <option value="3">2</option>
+                                            <option value="3">3</option>
+                                        </select>
+                                        <label for="CategoriesSelect">Categories</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating">
+                                        <textarea class="form-control bg-white border-0" placeholder="Special Request" id="message" style="height: 100px"></textarea>
+                                        <label for="message">Special Request</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button class="btn btn-primary text-white w-100 py-3" type="submit">Order Now</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Orders End -->
        
        <?php include "guidesfile.php"?>
      

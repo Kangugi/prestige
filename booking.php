@@ -121,13 +121,13 @@
         </div>
         <!-- Header End -->
 
-        <!-- Tour Booking Start -->
+        <!-- Orders Start -->
         <div class="container-fluid booking py-5">
             <div class="container py-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6">
-                        <h5 class="section-booking-title pe-3">Booking</h5>
-                        <h1 class="text-white mb-4">Online Booking</h1>
+                        <h5 class="section-booking-title pe-3">Orders</h5>
+                        <h1 class="text-white mb-4">Online Orders</h1>
                         <p class="text-white mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
                         </p>
                         <p class="text-white mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
@@ -135,8 +135,8 @@
                         <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a>
                     </div>
                     <div class="col-lg-6">
-                        <h1 class="text-white mb-3">Book A Tour Deals</h1>
-                        <p class="text-white mb-4">Get <span class="text-warning">50% Off</span> On Your First Adventure Trip With Travela. Get More Deal Offers Here.</p>
+                        <h1 class="text-white mb-3">Order an Item Online</h1>
+                        <p class="text-white mb-4">Get <span class="text-warning">10% Off</span> On Your First Order With Prestige Digital Hub. Get More Deal Offers Here.</p>
                         <form>
                             <div class="row g-3">
                                 <div class="col-md-6">
@@ -160,27 +160,27 @@
                                 <div class="col-md-6">
                                     <div class="form-floating">
                                         <select class="form-select bg-white border-0" id="select1">
-                                            <option value="1">Destination 1</option>
-                                            <option value="2">Destination 2</option>
-                                            <option value="3">Destination 3</option>
+                                            <option value="1">Computing Hardware</option>
+                                            <option value="2">Gaming Instruments</option>
+                                            <option value="3">Websites and Hosting</option>
                                         </select>
-                                        <label for="select1">Destination</label>
+                                        <label for="select1">Digital Consultation</label>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
                                         <select class="form-select bg-white border-0" id="SelectPerson">
-                                            <option value="1">Persons 1</option>
-                                            <option value="2">Persons 2</option>
-                                            <option value="3">Persons 3</option>
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
                                         </select>
-                                        <label for="SelectPerson">Persons</label>
+                                        <label for="SelectPerson">Items</label>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
                                         <select class="form-select bg-white border-0" id="CategoriesSelect">
-                                            <option value="1">Kids</option>
+                                            <option value="1">Packages</option>
                                             <option value="2">1</option>
                                             <option value="3">2</option>
                                             <option value="3">3</option>
@@ -195,7 +195,7 @@
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-primary text-white w-100 py-3" type="submit">Book Now</button>
+                                    <button class="btn btn-primary text-white w-100 py-3" type="submit">Order Now</button>
                                 </div>
                             </div>
                         </form>
@@ -203,7 +203,7 @@
                 </div>
             </div>
         </div>
-        <!-- Tour Booking End -->
+        <!-- Orders End -->
 
         <!-- Subscribe Start -->
         <div class="container-fluid subscribe py-5">
