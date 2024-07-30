@@ -53,8 +53,9 @@
                     <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(img/about-img-1.png);">
                         <h5 class="section-about-title pe-3">About Us</h5>
                         <h1 class="mb-4">Welcome to <span class="text-primary">Prestige Digital Hub</span></h1>
-                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, dolorum, doloribus sunt dicta, officia voluptatibus libero necessitatibus natus impedit quam ullam assumenda? Id atque iste consectetur. Commodi odit ab saepe!</p>
-                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quos voluptatem suscipit neque enim, doloribus ipsum rem eos distinctio, dignissimos nisi saepe nulla? Libero numquam perferendis provident placeat molestiae quia?</p>
+                        <p class="mb-4">Welcome to Prestige Digital Hub – your premier destination for cutting-edge technology and digital solutions. We specialize in providing top-of-the-line computers, gaming accessories, and expert web design services, all tailored to meet your unique needs. Our mission is to empower you with the tools and expertise to excel in the digital age.</p>
+                        <p class="mb-4">At Prestige Digital Hub, we understand that technology is more than just a product; it’s an experience. That’s why we offer a curated selection of high-performance computers and the latest gaming accessories to ensure you stay ahead of the curve. Our dedicated team of digital consultants is here to guide you through every step, from selecting the right gear to crafting a stunning online presence with our bespoke web design services.</p>
+                        <p class="mb-4">Whether you’re a tech enthusiast, a professional in need of a powerful machine, or a business looking to enhance your digital footprint, we are committed to delivering exceptional service and unparalleled quality. Discover the future of technology with Prestige Digital Hub – where innovation meets excellence.</p>
                         <div class="row gy-2 gx-4 mb-4">
                             <div class="col-sm-6">
                                 <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Video Games and Accesories</p>

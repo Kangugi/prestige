@@ -131,15 +131,14 @@
                 <div class="testimonial-carousel owl-carousel">
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
-                            </p>
+                            <p class="text-center mb-5">“Prestige Digital Hub transformed our marketing strategy with their innovative approach. Their expertise in digital advertising and campaign management has significantly increased our brand’s visibility and lead generation. We couldn’t be happier with the results!”</p>
                         </div>
                         <div class="testimonial-img p-1">
                             <img src="img/facts.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
-                            <p class="mb-0">New York, USA</p>
+                            <h5 class="mb-0">Emma R.</h5>
+                            <p class="mb-0">Marketing Director</p>
                             <div class="d-flex justify-content-center">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
@@ -151,15 +150,14 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
-                            </p>
+                            <p class="text-center mb-5">“The remote assistance service from Prestige Digital Hub has been a game-changer for us. Their prompt and efficient support has resolved technical issues quickly, saving us time and minimizing disruptions. Their team is knowledgeable and always reliable.”</p>
                         </div>
                         <div class="testimonial-img p-1">
                             <img src="img/facts.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
-                            <p class="mb-0">New York, USA</p>
+                            <h5 class="mb-0">John T.</h5>
+                            <p class="mb-0">IT Manager</p>
                             <div class="d-flex justify-content-center">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
@@ -171,15 +169,14 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
-                            </p>
+                            <p class="text-center mb-5">“Our new website, developed by Prestige Digital Hub, is nothing short of spectacular. The design is modern, user-friendly, and perfectly aligned with our brand. We’ve seen a noticeable increase in engagement and online traffic since launch.”</p>
                         </div>
                         <div class="testimonial-img p-1">
                             <img src="img/testimonial-3.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
-                            <p class="mb-0">New York, USA</p>
+                            <h5 class="mb-0">Sophie L.</h5>
+                            <p class="mb-0">Small Business Owner</p>
                             <div class="d-flex justify-content-center">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
@@ -191,15 +188,14 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
-                            </p>
+                            <p class="text-center mb-5">“Working with Prestige Digital Hub’s digital consultants has been incredibly valuable. Their insights and strategic advice helped us refine our online presence and achieve our business goals. Their professional and thorough approach made all the difference.”</p>
                         </div>
                         <div class="testimonial-img p-1">
                             <img src="img/facts.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
-                            <p class="mb-0">New York, USA</p>
+                            <h5 class="mb-0">Michael B.</h5>
+                            <p class="mb-0">Entrepreneur</p>
                             <div class="d-flex justify-content-center">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>

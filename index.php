@@ -154,6 +154,7 @@
         <!-- Navbar & Hero End -->
 
         <!-- About Start -->
+<!-- About Start -->
 <div class="container-fluid about py-5">
             <div class="container py-5">
                 <div class="row g-5 align-items-center">
@@ -165,8 +166,9 @@
                     <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(img/about-img-1.png);">
                         <h5 class="section-about-title pe-3">About Us</h5>
                         <h1 class="mb-4">Welcome to <span class="text-primary">Prestige Digital Hub</span></h1>
-                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, dolorum, doloribus sunt dicta, officia voluptatibus libero necessitatibus natus impedit quam ullam assumenda? Id atque iste consectetur. Commodi odit ab saepe!</p>
-                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quos voluptatem suscipit neque enim, doloribus ipsum rem eos distinctio, dignissimos nisi saepe nulla? Libero numquam perferendis provident placeat molestiae quia?</p>
+                        <p class="mb-4">Welcome to Prestige Digital Hub – your premier destination for cutting-edge technology and digital solutions. We specialize in providing top-of-the-line computers, gaming accessories, and expert web design services, all tailored to meet your unique needs. Our mission is to empower you with the tools and expertise to excel in the digital age.</p>
+                        <p class="mb-4">At Prestige Digital Hub, we understand that technology is more than just a product; it’s an experience. That’s why we offer a curated selection of high-performance computers and the latest gaming accessories to ensure you stay ahead of the curve. Our dedicated team of digital consultants is here to guide you through every step, from selecting the right gear to crafting a stunning online presence with our bespoke web design services.</p>
+                        <p class="mb-4">Whether you’re a tech enthusiast, a professional in need of a powerful machine, or a business looking to enhance your digital footprint, we are committed to delivering exceptional service and unparalleled quality. Discover the future of technology with Prestige Digital Hub – where innovation meets excellence.</p>
                         <div class="row gy-2 gx-4 mb-4">
                             <div class="col-sm-6">
                                 <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Video Games and Accesories</p>
@@ -192,6 +194,7 @@
                 </div>
             </div>
         </div>
+    
         <!-- About End -->
         <!-- Services Start -->
         <div class="container-fluid bg-light service py-5">
@@ -207,8 +210,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Sales and Marketting</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">We craft and execute effective sales and marketing strategies to drive growth and increase visibility for your brand. From market research and campaign management to digital advertising and lead generation, we help you connect with your target audience and boost your sales performance</p>
                                     </div>
                                     <div class="service-icon p-4">
                                         <i class="fa fa-globe fa-4x text-primary"></i>
@@ -219,8 +221,7 @@
                                 <div class="service-content-inner d-flex align-items-center  bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Internet Services</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">We offer reliable and high-performance internet solutions to ensure you stay connected. This includes setting up and managing network infrastructures, providing secure and stable connectivity, and optimizing your online presence for seamless browsing and communication.</p>
                                     </div>
                                     <div class="service-icon p-4">
                                         <i class="fa fa-hotel fa-4x text-primary"></i>
@@ -231,8 +232,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Digital Consultants</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">We provide expert guidance and strategic advice to help you navigate the digital landscape. Our consultants analyze your current digital presence, identify opportunities for improvement, and recommend actionable strategies to enhance your online effectiveness and achieve your goals</p>
                                     </div>
                                     <div class="service-icon p-4">
                                         <i class="fa fa-user fa-4x text-primary"></i>
@@ -243,8 +243,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Digital Event Management</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">Our team handles all aspects of digital event planning and execution. From virtual conferences and webinars to online workshops and product launches, we ensure your events run smoothly and deliver a memorable experience for participants.    </p>
                                     </div>
                                     <div class="service-icon p-4">
                                         <i class="fa fa-cog fa-4x text-primary"></i>
@@ -262,8 +261,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Remote Assistance</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">Our remote assistance service provides you with expert support and troubleshooting from a distance. Whether you need help with technical issues, software guidance, or general queries, our team is ready to assist you efficiently without the need for an on-site visit.</p>
                                     </div>
                                 </div>
                             </div>
@@ -274,8 +272,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Web Development</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">Our web development team creates custom websites that are visually stunning, user-friendly, and optimized for performance. From initial design and coding to deployment and maintenance, we build websites that effectively represent your brand and engage your audience</p>
                                     </div>
                                 </div>
                             </div>
@@ -286,8 +283,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Assets Delivery</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0"> We manage the efficient and secure delivery of digital and physical assets. Whether it’s hardware, software, or digital content, we ensure timely and safe delivery to meet your needs and expectations.</p>
                                     </div>
                                 </div>
                             </div>
@@ -298,8 +294,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Event Management</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">Our team handles all aspects of digital event planning and execution. From virtual conferences and webinars to online workshops and product launches, we ensure your events run smoothly and deliver a memorable experience for participants.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1550,7 +1545,7 @@
 
        <!-- Testimonial Start-->
          
-<div class="container-fluid testimonial py-5">
+       <div class="container-fluid testimonial py-5">
             <div class="container py-5">
                 <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                     <h5 class="section-title px-3">Testimonial</h5>
@@ -1559,15 +1554,14 @@
                 <div class="testimonial-carousel owl-carousel">
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
-                            </p>
+                            <p class="text-center mb-5">“Prestige Digital Hub transformed our marketing strategy with their innovative approach. Their expertise in digital advertising and campaign management has significantly increased our brand’s visibility and lead generation. We couldn’t be happier with the results!”</p>
                         </div>
                         <div class="testimonial-img p-1">
                             <img src="img/facts.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
-                            <p class="mb-0">New York, USA</p>
+                            <h5 class="mb-0">Emma R.</h5>
+                            <p class="mb-0">Marketing Director</p>
                             <div class="d-flex justify-content-center">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
@@ -1579,15 +1573,14 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
-                            </p>
+                            <p class="text-center mb-5">“The remote assistance service from Prestige Digital Hub has been a game-changer for us. Their prompt and efficient support has resolved technical issues quickly, saving us time and minimizing disruptions. Their team is knowledgeable and always reliable.”</p>
                         </div>
                         <div class="testimonial-img p-1">
                             <img src="img/facts.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
-                            <p class="mb-0">New York, USA</p>
+                            <h5 class="mb-0">John T.</h5>
+                            <p class="mb-0">IT Manager</p>
                             <div class="d-flex justify-content-center">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
@@ -1599,15 +1592,14 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
-                            </p>
+                            <p class="text-center mb-5">“Our new website, developed by Prestige Digital Hub, is nothing short of spectacular. The design is modern, user-friendly, and perfectly aligned with our brand. We’ve seen a noticeable increase in engagement and online traffic since launch.”</p>
                         </div>
                         <div class="testimonial-img p-1">
                             <img src="img/testimonial-3.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
-                            <p class="mb-0">New York, USA</p>
+                            <h5 class="mb-0">Sophie L.</h5>
+                            <p class="mb-0">Small Business Owner</p>
                             <div class="d-flex justify-content-center">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
@@ -1619,15 +1611,14 @@
                     </div>
                     <div class="testimonial-item text-center rounded pb-4">
                         <div class="testimonial-comment bg-light rounded p-4">
-                            <p class="text-center mb-5">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis nostrum cupiditate, eligendi repellendus saepe illum earum architecto dicta quisquam quasi porro officiis. Vero reiciendis,
-                            </p>
+                            <p class="text-center mb-5">“Working with Prestige Digital Hub’s digital consultants has been incredibly valuable. Their insights and strategic advice helped us refine our online presence and achieve our business goals. Their professional and thorough approach made all the difference.”</p>
                         </div>
                         <div class="testimonial-img p-1">
                             <img src="img/facts.jpg" class="img-fluid rounded-circle" alt="Image">
                         </div>
                         <div style="margin-top: -35px;">
-                            <h5 class="mb-0">John Abraham</h5>
-                            <p class="mb-0">New York, USA</p>
+                            <h5 class="mb-0">Michael B.</h5>
+                            <p class="mb-0">Entrepreneur</p>
                             <div class="d-flex justify-content-center">
                                 <i class="fas fa-star text-primary"></i>
                                 <i class="fas fa-star text-primary"></i>
@@ -1640,7 +1631,6 @@
                 </div>
             </div>
         </div>
-
         <!-- testimonials end -->
 
       

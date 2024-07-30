@@ -112,8 +112,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Sales and Marketting</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">We craft and execute effective sales and marketing strategies to drive growth and increase visibility for your brand. From market research and campaign management to digital advertising and lead generation, we help you connect with your target audience and boost your sales performance</p>
                                     </div>
                                     <div class="service-icon p-4">
                                         <i class="fa fa-globe fa-4x text-primary"></i>
@@ -124,8 +123,7 @@
                                 <div class="service-content-inner d-flex align-items-center  bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Internet Services</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">We offer reliable and high-performance internet solutions to ensure you stay connected. This includes setting up and managing network infrastructures, providing secure and stable connectivity, and optimizing your online presence for seamless browsing and communication.</p>
                                     </div>
                                     <div class="service-icon p-4">
                                         <i class="fa fa-hotel fa-4x text-primary"></i>
@@ -136,8 +134,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Digital Consultants</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">We provide expert guidance and strategic advice to help you navigate the digital landscape. Our consultants analyze your current digital presence, identify opportunities for improvement, and recommend actionable strategies to enhance your online effectiveness and achieve your goals</p>
                                     </div>
                                     <div class="service-icon p-4">
                                         <i class="fa fa-user fa-4x text-primary"></i>
@@ -148,8 +145,7 @@
                                 <div class="service-content-inner d-flex align-items-center bg-white border border-primary rounded p-4 pe-0">
                                     <div class="service-content text-end">
                                         <h5 class="mb-4">Digital Event Management</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">Our team handles all aspects of digital event planning and execution. From virtual conferences and webinars to online workshops and product launches, we ensure your events run smoothly and deliver a memorable experience for participants.    </p>
                                     </div>
                                     <div class="service-icon p-4">
                                         <i class="fa fa-cog fa-4x text-primary"></i>
@@ -167,8 +163,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Remote Assistance</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">Our remote assistance service provides you with expert support and troubleshooting from a distance. Whether you need help with technical issues, software guidance, or general queries, our team is ready to assist you efficiently without the need for an on-site visit.</p>
                                     </div>
                                 </div>
                             </div>
@@ -179,8 +174,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Web Development</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">Our web development team creates custom websites that are visually stunning, user-friendly, and optimized for performance. From initial design and coding to deployment and maintenance, we build websites that effectively represent your brand and engage your audience</p>
                                     </div>
                                 </div>
                             </div>
@@ -191,8 +185,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Assets Delivery</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0"> We manage the efficient and secure delivery of digital and physical assets. Whether it’s hardware, software, or digital content, we ensure timely and safe delivery to meet your needs and expectations.</p>
                                     </div>
                                 </div>
                             </div>
@@ -203,8 +196,7 @@
                                     </div>
                                     <div class="service-content">
                                         <h5 class="mb-4">Event Management</h5>
-                                        <p class="mb-0">Dolor sit amet consectetur adipisicing elit. Non alias eum, suscipit expedita corrupti officiis debitis possimus nam laudantium beatae quidem dolore consequuntur voluptate rem reiciendis, omnis sequi harum earum.
-                                        </p>
+                                        <p class="mb-0">Our team handles all aspects of digital event planning and execution. From virtual conferences and webinars to online workshops and product launches, we ensure your events run smoothly and deliver a memorable experience for participants.</p>
                                     </div>
                                 </div>
                             </div>
