@@ -37,7 +37,7 @@
                             <a href="privacy.php"><i class="fas fa-angle-right me-2"></i> Privacy Policy</a>
                             <a href="terms.html"><i class="fas fa-angle-right me-2"></i> Terms and Conditions</a>
                             <a href=""><i class="fas fa-angle-right me-2"></i> Sitemap</a>
-                            <a href="cookie.php"><i class="fas fa-angle-right me-2"></i> Cookie policy</a>
+                            <a href="cookies.php"><i class="fas fa-angle-right me-2"></i> Cookie policy</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">
@@ -93,10 +93,7 @@
                     <div class="col-md-6 text-center text-md-end mb-md-0">
                         <i class="fas fa-copyright me-2"></i><a class="text-white" href="#">Prestige Digital Hub</a>, All right reserved.
                     </div>
-                    <div class="col-md-6 text-center text-md-start">
-                
-                        Designed By <a class="text-white" href="https://htmlcodex.com">Muthama</a> Distributed By <a href="https://bit.ly/3zUsINe">Muthama</a>
-                    </div>
+                   
                     </div>
                 </div>
             </div>
