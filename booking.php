@@ -128,10 +128,8 @@
                     <div class="col-lg-6">
                         <h5 class="section-booking-title pe-3">Orders</h5>
                         <h1 class="text-white mb-4">Online Orders</h1>
-                        <p class="text-white mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
-                        </p>
-                        <p class="text-white mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur maxime ullam esse fuga blanditiis accusantium pariatur quis sapiente, veniam doloribus praesentium? Repudiandae iste voluptatem fugiat doloribus quasi quo iure officia.
-                        </p>
+                        <p class="text-white mb-4">At Prestige Digital Hub, we strive to make your shopping experience seamless and enjoyable. Our online ordering system is designed for your convenience, offering a wide range of products at your fingertips</p>
+                        <p class="text-white mb-4">With secure payment options, fast shipping, and dedicated customer support, you can shop with confidence knowing that your orders are in good hands. Explore our offerings and place your order today for a hassle-free experience.</p>
                         <a href="#" class="btn btn-light text-primary rounded-pill py-3 px-5 mt-2">Read More</a>
                     </div>
                     <div class="col-lg-6">

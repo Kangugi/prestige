@@ -111,7 +111,7 @@
         <!-- Header Start -->
         <div class="container-fluid bg-breadcrumb">
             <div class="container text-center py-5" style="max-width: 900px;">
-                <h3 class="text-white display-3 mb-4">Our Blog</h1>
+                <h3 class="text-white display-3 mb-4">Our Blogs</h1>
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
@@ -127,8 +127,7 @@
                 <div class="mx-auto text-center mb-5" style="max-width: 900px;">
                     <h5 class="section-title px-3">Our Blogs</h5>
                     <h1 class="mb-4">Popular Tech Blogs</h1>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti deserunt tenetur sapiente atque. Magni non explicabo beatae sit, vel reiciendis consectetur numquam id similique sunt error obcaecati ducimus officia maiores.
-                    </p>
+                    <p class="mb-0">Dive into the latest trends, insights, and innovations in the ever-evolving world of technology. </p>
                 </div>
                 <div class="row g-4 justify-content-center">
                     <div class="col-lg-4 col-md-6">
@@ -149,7 +148,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <p class="mb-3">Posted By: Royal Hamblin </p>
                                 <a href="#" class="h4">Tech Health</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
+                                <p class="my-3">Explore the intersection of technology and wellness with our Tech Health Blog, where innovation meets well-being.</p>
                                 <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
                             </div>
                         </div>
@@ -172,7 +171,7 @@
                             <div class="blog-content border border-top-0 rounded-bottom p-4">
                                 <p class="mb-3">Posted By: Royal Hamblin </p>
                                 <a href="#" class="h4">Setup</a>
-                                <p class="my-3">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam eos</p>
+                                <p class="my-3">Step into the world of seamless technology integration with our Digital Setup Blog, your ultimate guide to optimizing your digital environment. </p>
                                 <a href="#" class="btn btn-primary rounded-pill py-2 px-4">Read More</a>
                             </div>
                         </div>
